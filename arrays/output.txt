@@ -1,7 +1,3 @@
-Traceback (most recent call last):
-  File "D:\Projects\Leetcode\arrays\valid_anagram.py", line 44, in <module>
-    result2 = sol.valid_anagram_optimal2(strings[0], strings[1])
-  File "D:\Projects\Leetcode\arrays\valid_anagram.py", line 30, in valid_anagram_optimal2
-    char_array[ord(char) - ord('a')] += 1
-    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-IndexError: list index out of range
+result: [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
+result1: [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
+result2: [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
